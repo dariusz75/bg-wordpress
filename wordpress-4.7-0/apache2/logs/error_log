@@ -22,3 +22,8 @@
 [Tue Dec 20 13:30:41.131354 2016] [ssl:warn] [pid 566] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
 [Tue Dec 20 13:30:41.133310 2016] [mpm_prefork:notice] [pid 566] AH00163: Apache/2.4.23 (Unix) PHP/7.0.13 OpenSSL/1.0.2j configured -- resuming normal operations
 [Tue Dec 20 13:30:41.133357 2016] [core:notice] [pid 566] AH00094: Command line: '/Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/apache2/bin/httpd.bin -f /Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/apache2/conf/httpd.conf'
+[Thu Dec 22 16:31:31.583354 2016] [mpm_prefork:notice] [pid 566] AH00169: caught SIGTERM, shutting down
+[Thu Dec 22 16:31:35.651864 2016] [ssl:warn] [pid 66069] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 22 16:31:35.700065 2016] [ssl:warn] [pid 66070] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 22 16:31:35.701986 2016] [mpm_prefork:notice] [pid 66070] AH00163: Apache/2.4.23 (Unix) PHP/7.0.13 OpenSSL/1.0.2j configured -- resuming normal operations
+[Thu Dec 22 16:31:35.702032 2016] [core:notice] [pid 66070] AH00094: Command line: '/Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/apache2/bin/httpd.bin -f /Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/apache2/conf/httpd.conf'
