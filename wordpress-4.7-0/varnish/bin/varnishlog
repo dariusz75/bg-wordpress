@@ -1,0 +1,5 @@
+#!/bin/sh
+
+. /Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/scripts/setenv.sh
+
+exec /Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/varnish/bin/.varnishlog.bin -n /Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/varnish/var/varnish "$@"

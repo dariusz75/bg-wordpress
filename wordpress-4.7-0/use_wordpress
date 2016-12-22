@@ -1,0 +1,8 @@
+#!/bin/sh
+
+PATH="/Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/varnish/bin:/Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/sqlite/bin:/Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/php/bin:/Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/mysql/bin:/Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/apache2/bin:/Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/common/bin:$PATH"
+BITNAMI_ROOT="/Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0"
+export BITNAMI_ROOT
+
+
+exec /bin/bash --noprofile --norc

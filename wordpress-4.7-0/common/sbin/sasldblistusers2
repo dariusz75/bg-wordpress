@@ -1,0 +1,6 @@
+#!/bin/sh
+
+. /Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/scripts/setenv.sh
+SASL_PATH="/Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/common/lib/sasl2"
+                export SASL_PATH
+exec /Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/common/sbin/.sasldblistusers2.bin -f "/Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/common/etc/sasldb2" "$@"
