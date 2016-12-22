@@ -242,3 +242,6 @@ Version: '5.7.16'  socket: '/Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/mys
 2016-12-22T16:31:35.293987Z 0 [Note] Event Scheduler: Loaded 0 events
 2016-12-22T16:31:35.294112Z 0 [Note] /Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/mysql/bin/mysqld.bin: ready for connections.
 Version: '5.7.16'  socket: '/Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server (GPL)
+2016-12-22T17:02:11.084112Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 280480ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2016-12-22T18:22:59.655676Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 3597013ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
+2016-12-22T18:52:16.409757Z 0 [Note] InnoDB: page_cleaner: 1000ms intended loop took 1709474ms. The settings might not be optimal. (flushed=0 and evicted=0, during the time.)
