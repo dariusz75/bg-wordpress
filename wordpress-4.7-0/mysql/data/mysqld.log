@@ -509,3 +509,147 @@ Version: '5.7.16'  socket: '/Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/mys
 2016-12-27T22:59:47.071667Z 0 [Note] Event Scheduler: Loaded 0 events
 2016-12-27T22:59:47.071818Z 0 [Note] /Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/mysql/bin/mysqld.bin: ready for connections.
 Version: '5.7.16'  socket: '/Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server (GPL)
+2016-12-28T02:55:00.367607Z 0 [Note] Giving 0 client threads a chance to die gracefully
+2016-12-28T02:55:00.367639Z 0 [Note] Shutting down slave threads
+2016-12-28T02:55:00.367941Z 0 [Note] Forcefully disconnecting 0 remaining clients
+2016-12-28T02:55:00.367959Z 0 [Note] Event Scheduler: Purging the queue. 0 events
+2016-12-28T02:55:00.368013Z 0 [Note] Binlog end
+2016-12-28T02:55:00.375320Z 0 [Note] Shutting down plugin 'ngram'
+2016-12-28T02:55:00.375344Z 0 [Note] Shutting down plugin 'partition'
+2016-12-28T02:55:00.375348Z 0 [Note] Shutting down plugin 'BLACKHOLE'
+2016-12-28T02:55:00.375352Z 0 [Note] Shutting down plugin 'ARCHIVE'
+2016-12-28T02:55:00.375355Z 0 [Note] Shutting down plugin 'PERFORMANCE_SCHEMA'
+2016-12-28T02:55:00.375408Z 0 [Note] Shutting down plugin 'MRG_MYISAM'
+2016-12-28T02:55:00.375579Z 0 [Note] Shutting down plugin 'MyISAM'
+2016-12-28T02:55:00.375655Z 0 [Note] Shutting down plugin 'INNODB_SYS_VIRTUAL'
+2016-12-28T02:55:00.375660Z 0 [Note] Shutting down plugin 'INNODB_SYS_DATAFILES'
+2016-12-28T02:55:00.375663Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLESPACES'
+2016-12-28T02:55:00.375666Z 0 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN_COLS'
+2016-12-28T02:55:00.375668Z 0 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN'
+2016-12-28T02:55:00.375670Z 0 [Note] Shutting down plugin 'INNODB_SYS_FIELDS'
+2016-12-28T02:55:00.375673Z 0 [Note] Shutting down plugin 'INNODB_SYS_COLUMNS'
+2016-12-28T02:55:00.375675Z 0 [Note] Shutting down plugin 'INNODB_SYS_INDEXES'
+2016-12-28T02:55:00.375678Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLESTATS'
+2016-12-28T02:55:00.375680Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLES'
+2016-12-28T02:55:00.375683Z 0 [Note] Shutting down plugin 'INNODB_FT_INDEX_TABLE'
+2016-12-28T02:55:00.375685Z 0 [Note] Shutting down plugin 'INNODB_FT_INDEX_CACHE'
+2016-12-28T02:55:00.375687Z 0 [Note] Shutting down plugin 'INNODB_FT_CONFIG'
+2016-12-28T02:55:00.375690Z 0 [Note] Shutting down plugin 'INNODB_FT_BEING_DELETED'
+2016-12-28T02:55:00.375692Z 0 [Note] Shutting down plugin 'INNODB_FT_DELETED'
+2016-12-28T02:55:00.375694Z 0 [Note] Shutting down plugin 'INNODB_FT_DEFAULT_STOPWORD'
+2016-12-28T02:55:00.375697Z 0 [Note] Shutting down plugin 'INNODB_METRICS'
+2016-12-28T02:55:00.375699Z 0 [Note] Shutting down plugin 'INNODB_TEMP_TABLE_INFO'
+2016-12-28T02:55:00.375715Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_POOL_STATS'
+2016-12-28T02:55:00.375718Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE_LRU'
+2016-12-28T02:55:00.375720Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE'
+2016-12-28T02:55:00.375722Z 0 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX_RESET'
+2016-12-28T02:55:00.375725Z 0 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX'
+2016-12-28T02:55:00.375727Z 0 [Note] Shutting down plugin 'INNODB_CMPMEM_RESET'
+2016-12-28T02:55:00.375730Z 0 [Note] Shutting down plugin 'INNODB_CMPMEM'
+2016-12-28T02:55:00.375732Z 0 [Note] Shutting down plugin 'INNODB_CMP_RESET'
+2016-12-28T02:55:00.375734Z 0 [Note] Shutting down plugin 'INNODB_CMP'
+2016-12-28T02:55:00.375737Z 0 [Note] Shutting down plugin 'INNODB_LOCK_WAITS'
+2016-12-28T02:55:00.375739Z 0 [Note] Shutting down plugin 'INNODB_LOCKS'
+2016-12-28T02:55:00.375741Z 0 [Note] Shutting down plugin 'INNODB_TRX'
+2016-12-28T02:55:00.375744Z 0 [Note] Shutting down plugin 'InnoDB'
+2016-12-28T02:55:00.375969Z 0 [Note] InnoDB: FTS optimize thread exiting.
+2016-12-28T02:55:00.376069Z 0 [Note] InnoDB: Starting shutdown...
+2016-12-28T02:55:00.477053Z 0 [Note] InnoDB: Dumping buffer pool(s) to /Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/mysql/data/ib_buffer_pool
+2016-12-28T02:55:00.478612Z 0 [Note] InnoDB: Buffer pool(s) dump completed at 161228  2:55:00
+2016-12-28T02:55:01.622620Z 0 [Note] InnoDB: Shutdown completed; log sequence number 87320438
+2016-12-28T02:55:01.623465Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2016-12-28T02:55:01.623477Z 0 [Note] Shutting down plugin 'MEMORY'
+2016-12-28T02:55:01.623481Z 0 [Note] Shutting down plugin 'CSV'
+2016-12-28T02:55:01.623485Z 0 [Note] Shutting down plugin 'sha256_password'
+2016-12-28T02:55:01.623488Z 0 [Note] Shutting down plugin 'mysql_native_password'
+2016-12-28T02:55:01.623722Z 0 [Note] Shutting down plugin 'binlog'
+2016-12-28T02:55:01.625956Z 0 [Note] /Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/mysql/bin/mysqld.bin: Shutdown complete
+
+2016-12-28T02:55:01.6NZ mysqld_safe mysqld from pid file /Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/mysql/data/mysqld.pid ended
+2016-12-28T11:12:47.6NZ mysqld_safe Starting mysqld.bin daemon with databases from /Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/mysql/data
+2016-12-28T11:12:47.670548Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2016-12-28T11:12:47.670877Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2016-12-28T11:12:47.671019Z 0 [Note] /Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/mysql/bin/mysqld.bin (mysqld 5.7.16) starting as process 737 ...
+2016-12-28T11:12:47.676637Z 0 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2016-12-28T11:12:47.676655Z 0 [Note] InnoDB: Uses event mutexes
+2016-12-28T11:12:47.676659Z 0 [Note] InnoDB: GCC builtin __atomic_thread_fence() is used for memory barrier
+2016-12-28T11:12:47.676663Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2016-12-28T11:12:47.677099Z 0 [Note] InnoDB: Number of pools: 1
+2016-12-28T11:12:47.677464Z 0 [Note] InnoDB: Using CPU crc32 instructions
+2016-12-28T11:12:47.678449Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2016-12-28T11:12:47.688899Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2016-12-28T11:12:47.707343Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2016-12-28T11:12:47.728513Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2016-12-28T11:12:47.728622Z 0 [Note] InnoDB: Setting file './ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2016-12-28T11:12:47.739273Z 0 [Note] InnoDB: File './ibtmp1' size is now 12 MB.
+2016-12-28T11:12:47.740269Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2016-12-28T11:12:47.740287Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2016-12-28T11:12:47.740525Z 0 [Note] InnoDB: Waiting for purge to start
+2016-12-28T11:12:47.794352Z 0 [Note] InnoDB: 5.7.16 started; log sequence number 87320438
+2016-12-28T11:12:47.794491Z 0 [Note] InnoDB: Loading buffer pool(s) from /Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/mysql/data/ib_buffer_pool
+2016-12-28T11:12:47.794791Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2016-12-28T11:12:47.804727Z 0 [Warning] Failed to set up SSL because of the following SSL library error: SSL context is not usable without certificate and private key
+2016-12-28T11:12:47.804755Z 0 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+2016-12-28T11:12:47.805157Z 0 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+2016-12-28T11:12:47.805259Z 0 [Note] Server socket created on IP: '127.0.0.1'.
+2016-12-28T11:12:47.816028Z 0 [Note] InnoDB: Buffer pool(s) load completed at 161228 11:12:47
+2016-12-28T11:12:47.826763Z 0 [Note] Event Scheduler: Loaded 0 events
+2016-12-28T11:12:47.826890Z 0 [Note] /Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/mysql/bin/mysqld.bin: ready for connections.
+Version: '5.7.16'  socket: '/Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/mysql/tmp/mysql.sock'  port: 3306  MySQL Community Server (GPL)
+2016-12-28T13:09:01.154856Z 0 [Note] Giving 0 client threads a chance to die gracefully
+2016-12-28T13:09:01.155034Z 0 [Note] Shutting down slave threads
+2016-12-28T13:09:01.155280Z 0 [Note] Forcefully disconnecting 0 remaining clients
+2016-12-28T13:09:01.155301Z 0 [Note] Event Scheduler: Purging the queue. 0 events
+2016-12-28T13:09:01.155344Z 0 [Note] Binlog end
+2016-12-28T13:09:01.158823Z 0 [Note] Shutting down plugin 'ngram'
+2016-12-28T13:09:01.158842Z 0 [Note] Shutting down plugin 'partition'
+2016-12-28T13:09:01.158846Z 0 [Note] Shutting down plugin 'BLACKHOLE'
+2016-12-28T13:09:01.158849Z 0 [Note] Shutting down plugin 'ARCHIVE'
+2016-12-28T13:09:01.158852Z 0 [Note] Shutting down plugin 'PERFORMANCE_SCHEMA'
+2016-12-28T13:09:01.158871Z 0 [Note] Shutting down plugin 'MRG_MYISAM'
+2016-12-28T13:09:01.159083Z 0 [Note] Shutting down plugin 'MyISAM'
+2016-12-28T13:09:01.159270Z 0 [Note] Shutting down plugin 'INNODB_SYS_VIRTUAL'
+2016-12-28T13:09:01.159284Z 0 [Note] Shutting down plugin 'INNODB_SYS_DATAFILES'
+2016-12-28T13:09:01.159287Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLESPACES'
+2016-12-28T13:09:01.159289Z 0 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN_COLS'
+2016-12-28T13:09:01.159292Z 0 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN'
+2016-12-28T13:09:01.159294Z 0 [Note] Shutting down plugin 'INNODB_SYS_FIELDS'
+2016-12-28T13:09:01.159296Z 0 [Note] Shutting down plugin 'INNODB_SYS_COLUMNS'
+2016-12-28T13:09:01.159299Z 0 [Note] Shutting down plugin 'INNODB_SYS_INDEXES'
+2016-12-28T13:09:01.159301Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLESTATS'
+2016-12-28T13:09:01.159304Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLES'
+2016-12-28T13:09:01.159306Z 0 [Note] Shutting down plugin 'INNODB_FT_INDEX_TABLE'
+2016-12-28T13:09:01.159308Z 0 [Note] Shutting down plugin 'INNODB_FT_INDEX_CACHE'
+2016-12-28T13:09:01.159311Z 0 [Note] Shutting down plugin 'INNODB_FT_CONFIG'
+2016-12-28T13:09:01.159313Z 0 [Note] Shutting down plugin 'INNODB_FT_BEING_DELETED'
+2016-12-28T13:09:01.159315Z 0 [Note] Shutting down plugin 'INNODB_FT_DELETED'
+2016-12-28T13:09:01.159318Z 0 [Note] Shutting down plugin 'INNODB_FT_DEFAULT_STOPWORD'
+2016-12-28T13:09:01.159320Z 0 [Note] Shutting down plugin 'INNODB_METRICS'
+2016-12-28T13:09:01.159322Z 0 [Note] Shutting down plugin 'INNODB_TEMP_TABLE_INFO'
+2016-12-28T13:09:01.159325Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_POOL_STATS'
+2016-12-28T13:09:01.159327Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE_LRU'
+2016-12-28T13:09:01.159330Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE'
+2016-12-28T13:09:01.159332Z 0 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX_RESET'
+2016-12-28T13:09:01.159334Z 0 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX'
+2016-12-28T13:09:01.159336Z 0 [Note] Shutting down plugin 'INNODB_CMPMEM_RESET'
+2016-12-28T13:09:01.159339Z 0 [Note] Shutting down plugin 'INNODB_CMPMEM'
+2016-12-28T13:09:01.159355Z 0 [Note] Shutting down plugin 'INNODB_CMP_RESET'
+2016-12-28T13:09:01.159358Z 0 [Note] Shutting down plugin 'INNODB_CMP'
+2016-12-28T13:09:01.159360Z 0 [Note] Shutting down plugin 'INNODB_LOCK_WAITS'
+2016-12-28T13:09:01.159363Z 0 [Note] Shutting down plugin 'INNODB_LOCKS'
+2016-12-28T13:09:01.159365Z 0 [Note] Shutting down plugin 'INNODB_TRX'
+2016-12-28T13:09:01.159367Z 0 [Note] Shutting down plugin 'InnoDB'
+2016-12-28T13:09:01.159558Z 0 [Note] InnoDB: FTS optimize thread exiting.
+2016-12-28T13:09:01.159625Z 0 [Note] InnoDB: Starting shutdown...
+2016-12-28T13:09:01.264275Z 0 [Note] InnoDB: Dumping buffer pool(s) to /Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/mysql/data/ib_buffer_pool
+2016-12-28T13:09:01.264932Z 0 [Note] InnoDB: Buffer pool(s) dump completed at 161228 13:09:01
+2016-12-28T13:09:02.303725Z 0 [Note] InnoDB: Shutdown completed; log sequence number 102841082
+2016-12-28T13:09:02.303846Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2016-12-28T13:09:02.303856Z 0 [Note] Shutting down plugin 'MEMORY'
+2016-12-28T13:09:02.303862Z 0 [Note] Shutting down plugin 'CSV'
+2016-12-28T13:09:02.303866Z 0 [Note] Shutting down plugin 'sha256_password'
+2016-12-28T13:09:02.303869Z 0 [Note] Shutting down plugin 'mysql_native_password'
+2016-12-28T13:09:02.303985Z 0 [Note] Shutting down plugin 'binlog'
+2016-12-28T13:09:02.305070Z 0 [Note] /Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/mysql/bin/mysqld.bin: Shutdown complete
+
+2016-12-28T13:09:02.6NZ mysqld_safe mysqld from pid file /Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/mysql/data/mysqld.pid ended

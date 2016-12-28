@@ -499,7 +499,7 @@ body {
 }
 #header-text-nav-container {
 	border-bottom: 1px solid #F2F2F2;
-	background-color: #F8F8F8;
+	background-color: #691909;
 }
 #header-text-nav-wrap {
 	padding: 30px 0 40px;
@@ -592,7 +592,7 @@ nav li > ol {
 }
 .main-navigation {
 	width: 100%;
-	background-color: #FFFFFF;
+	background-color: #3CA2E6;
 }
 .main-navigation li {
 	float: left;
@@ -620,6 +620,8 @@ li.default-menu {
 	color: #FFFFFF;
 	background-color: #77CC6D;
 }
+
+
 
 /* =DROP DOWN
 ----------------------------------------------- */
