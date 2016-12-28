@@ -15,8 +15,8 @@
 <div id="content" class="clearfix">
 
 	<?php 
-		if( is_active_sidebar( 'accelerate_business_sidebar' ) ) {
-			if ( !dynamic_sidebar( 'accelerate_business_sidebar' ) ):
+		if( is_active_sidebar( 'accelerate_test_sidebar' ) ) {
+			if ( !dynamic_sidebar( 'accelerate_test_sidebar' ) ):
 			endif;
 		}
 	?>

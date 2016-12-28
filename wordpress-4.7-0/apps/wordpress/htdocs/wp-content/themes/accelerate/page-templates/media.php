@@ -14,6 +14,12 @@
 
 	<div id="primary">
 		<div id="content" class="clearfix">
+		<?php 
+		if( is_active_sidebar( 'accelerate_media_sidebar' ) ) {
+			if ( !dynamic_sidebar( 'accelerate_media_sidebar' ) ):
+			endif;
+		}
+	?>
 			<?php while ( have_posts() ) : the_post(); ?>
 
 				<?php get_template_part( 'content', 'page' ); ?>

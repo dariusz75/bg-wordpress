@@ -57,6 +57,28 @@ function accelerate_widgets_init() {
 		'after_title'   	=> '</h3>'
 	) );
 
+	// Registering test Page template top section sidebar
+	register_sidebar( array(
+		'name' 				=> __( 'test Sidebar', 'accelerate' ),
+		'id' 					=> 'accelerate_test_sidebar',
+		'description'   	=> __( 'Shows widgets on test Page Template.', 'accelerate' ),
+		'before_widget' 	=> '<section id="%1$s" class="widget %2$s clearfix">',
+		'after_widget'  	=> '</section>',
+		'before_title'  	=> '<h3 class="widget-title">',
+		'after_title'   	=> '</h3>'
+	) );
+
+	// Registering Media Page template top section sidebar
+	register_sidebar( array(
+		'name' 				=> __( 'Media Sidebar', 'accelerate' ),
+		'id' 					=> 'accelerate_media_sidebar',
+		'description'   	=> __( 'Shows widgets on media Page Template.', 'accelerate' ),
+		'before_widget' 	=> '<section id="%1$s" class="widget %2$s clearfix">',
+		'after_widget'  	=> '</section>',
+		'before_title'  	=> '<h3 class="widget-title">',
+		'after_title'   	=> '</h3>'
+	) );
+
 	// Registering contact Page sidebar
 	register_sidebar( array(
 		'name' 				=> __( 'Contact Page Sidebar', 'accelerate' ),
