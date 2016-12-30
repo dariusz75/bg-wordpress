@@ -925,6 +925,7 @@ a.slide-next:hover {
 }
 #main {
 	padding-top: 50px;
+	background-color: #F2EBED;
 }
 
 /* =POST FORMAT
@@ -2156,4 +2157,14 @@ background-color: #32ACD5;
 .woocommerce ul.products li.product .price del{
 	display: inline-block;
 	margin-right: 10px;
+}
+
+/* ##### ADDITIONAL STYLES ##### */
+
+.rating-and-share-blocks {
+display: none;
+}
+
+.huge-it-catalog-bottom-block {
+display: none !important;
 }

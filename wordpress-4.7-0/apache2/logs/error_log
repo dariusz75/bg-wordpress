@@ -55,3 +55,13 @@ sh: /usr/bin/sendmail: No such file or directory
 [Wed Dec 28 11:12:44.982895 2016] [mpm_prefork:notice] [pid 422] AH00163: Apache/2.4.23 (Unix) PHP/7.0.13 OpenSSL/1.0.2j configured -- resuming normal operations
 [Wed Dec 28 11:12:44.982957 2016] [core:notice] [pid 422] AH00094: Command line: '/Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/apache2/bin/httpd.bin -f /Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/apache2/conf/httpd.conf'
 [Wed Dec 28 13:09:02.678492 2016] [mpm_prefork:notice] [pid 422] AH00169: caught SIGTERM, shutting down
+[Thu Dec 29 01:01:06.328488 2016] [ssl:warn] [pid 840] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 29 01:01:06.410344 2016] [ssl:warn] [pid 841] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 29 01:01:06.412457 2016] [mpm_prefork:notice] [pid 841] AH00163: Apache/2.4.23 (Unix) PHP/7.0.13 OpenSSL/1.0.2j configured -- resuming normal operations
+[Thu Dec 29 01:01:06.412509 2016] [core:notice] [pid 841] AH00094: Command line: '/Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/apache2/bin/httpd.bin -f /Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/apache2/conf/httpd.conf'
+[Thu Dec 29 03:16:01.748880 2016] [mpm_prefork:notice] [pid 841] AH00169: caught SIGTERM, shutting down
+[Thu Dec 29 13:30:58.450231 2016] [ssl:warn] [pid 716] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 29 13:30:58.521900 2016] [ssl:warn] [pid 717] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 29 13:30:58.532500 2016] [mpm_prefork:notice] [pid 717] AH00163: Apache/2.4.23 (Unix) PHP/7.0.13 OpenSSL/1.0.2j configured -- resuming normal operations
+[Thu Dec 29 13:30:58.532692 2016] [core:notice] [pid 717] AH00094: Command line: '/Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/apache2/bin/httpd.bin -f /Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/apache2/conf/httpd.conf'
+[Thu Dec 29 14:05:16.064564 2016] [:error] [pid 4562] [client 127.0.0.1:50099] PHP Warning:  Invalid argument supplied for foreach() in /Users/Dariusz/gits/bg-wordpress/wordpress-4.7-0/apps/wordpress/htdocs/wp-content/plugins/product-catalog/Front_end/catalog_front_end_view.php on line 1557, referer: http://127.0.0.1:8080/wordpress/discography/
